@@ -1,7 +1,7 @@
-function fiboEvenSum(n) {
+var fiboEvenSum = n => {
   let fibArray = buildFibArray(n);
   let sum = 0;
-  fibArray.forEach(function(n) {
+  fibArray.forEach( (n) => {
     if (n % 2 === 0) {
       sum += n;
     }
@@ -9,7 +9,7 @@ function fiboEvenSum(n) {
   return sum;
 }
 
-function buildFibArray(n) {
+var buildFibArray = n => {
   let arr = [1, 2];
   for (let i = 2; i <= n; i++) {
     arr.push(arr[i - 2] + arr[i - 1]);
