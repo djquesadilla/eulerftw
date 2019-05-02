@@ -1,0 +1,29 @@
+{
+  "name": "eulerftw",
+  "version": "1.0.0",
+  "description": "Euler problemzzz solved in JS for learning and practice purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djquesadilla/eulerftw.git"
+  },
+  "keywords": [
+    "euler",
+    "javascript",
+    "cats"
+  ],
+  "author": "Fábio Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djquesadilla/eulerftw/issues"
+  },
+  "homepage": "https://github.com/djquesadilla/eulerftw#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
