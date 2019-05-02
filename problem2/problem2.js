@@ -16,3 +16,5 @@ var buildFibArray = n => {
   }
   return arr;
 }
+
+fiboEvenSum(43);

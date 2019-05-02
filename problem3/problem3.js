@@ -14,3 +14,5 @@ var largestPrimeFactor = number => {
 var isPrime = (number, candidate) => {
   return (number % candidate == 0)
 }
+
+largestPrimeFactor(600851475143);
