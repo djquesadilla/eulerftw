@@ -4,4 +4,5 @@ Solutions for [Project Euler](https://learn.freecodecamp.org/coding-interview-pr
 
 * [Problem 1: Multiples of 3 and 5](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
 * [Problem 2: Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers/)
+* [Problem 3: Largest Prime Factor](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
 * ...
